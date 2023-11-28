@@ -1,0 +1,7 @@
+H2 is spring in memory database used for this learning
+
+JDBC vs spring jdbc vs jpa vs spring data jpa
+
+jakarta persistence annotations vs hibernate annotations like @Entity
+@Transcational
+@PersistenceContext vs @autowired
