@@ -5,3 +5,13 @@ JDBC vs spring jdbc vs jpa vs spring data jpa
 jakarta persistence annotations vs hibernate annotations like @Entity
 @Transcational
 @PersistenceContext vs @autowired
+
+JPA vs hibernate
+
+JPA defines the specification. it is an api
+.how do you define entities
+.how do you map attributes
+.who manages the entities
+
+hibernate is one of the popular implimentation of JPA.
+Using hibernate directly would lock into hibernate.
